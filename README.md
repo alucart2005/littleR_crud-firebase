@@ -1,5 +1,19 @@
 # React + Vite
 
+My first steps in React some Movie Api 😊
+
+## Author ✍
+
+**NAPOLEON ANAYA ROMERO**
+-	[https://www.linkedin.com/in/napoleon-anaya/](https://www.linkedin.com/in/napoleon-anaya/)
+
+## Preview 
+## [)
+![..]()
+
+## Hiring 
+If you want to hire me you can write to napoleonanaya@gmail.com
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
