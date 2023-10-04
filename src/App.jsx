@@ -9,6 +9,9 @@ import {
   deleteDoc,
 } from "firebase/firestore";
 import { db } from "./data/firebase";
+import { AddTodo } from "./components/AddTodo";
+import { Title } from "./components/Title";
+import { Todo } from "./components/Todo";
 
 function App() {
   const [todos, setTodos] = useState([]);
@@ -33,7 +36,21 @@ function App() {
     await deleteDoc(doc(db, "todos", id));
   };
 
-  return <div className="app"></div>;
+  return (
+    <div className="App">
+      <div>
+        <Title />
+      </div>
+      <div>
+        <AddTodo />
+      </div>
+      <div className="todo_container">
+        {todos.map((todo)=>{
+          <Todo/>
+        })}
+      </div>
+    </div>
+  );
 }
 
 export default App;
