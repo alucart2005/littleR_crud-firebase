@@ -8,7 +8,7 @@ My first steps in React some Movie Api 😊
 -	[https://www.linkedin.com/in/napoleon-anaya/](https://www.linkedin.com/in/napoleon-anaya/)
 
 ## Preview 
-## [)
+## []()
 ![..]()
 
 ## Hiring 
