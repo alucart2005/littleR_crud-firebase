@@ -45,9 +45,12 @@ function App() {
         <AddTodo />
       </div>
       <div className="todo_container">
-        {todos.map((todo)=>{
-          <Todo/>
-        })}
+        {todos.map((todo, index) => (
+          <Todo key={index} 
+            todo={todo}
+            handleDelete={handleDelete}
+          />
+        ))}
       </div>
     </div>
   );
