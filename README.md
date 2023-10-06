@@ -9,7 +9,7 @@ My first steps in React some Movie Api 😊
 
 ## Preview 
 ## []()
-![..]()
+![..](https://github.com/alucart2005/littleR_crud-firebase/blob/main/src/img/preview.jpg?raw=true)
 
 ## Hiring 
 If you want to hire me you can write to napoleonanaya@gmail.com
