@@ -1,3 +1,7 @@
 export function Title() {
-  return (<h1>Hi Title</h1>);
+  return (
+    <div className="title">
+      <h1>Tasks - crud</h1>
+    </div>
+  );
 }
