@@ -1,14 +1,14 @@
 # React + Vite
 
 My first steps in React some Movie Api 😊
+Some CRUD using FireBase
 
 ## Author ✍
 
 **NAPOLEON ANAYA ROMERO**
 -	[https://www.linkedin.com/in/napoleon-anaya/](https://www.linkedin.com/in/napoleon-anaya/)
 
-## Preview 
-## []()
+## Preview  [https://little-crud-firebase.netlify.app/](https://little-crud-firebase.netlify.app/)
 ![..](https://github.com/alucart2005/littleR_crud-firebase/blob/main/src/img/preview.jpg?raw=true)
 
 ## Hiring 
